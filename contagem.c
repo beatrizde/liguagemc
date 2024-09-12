@@ -3,8 +3,8 @@
 int main(){
 
     int valor;
-    valor = 10;
-    while(valor >= 1){
+    valor = 1;
+    while(valor >= 10){
         printf("%d\n",valor);
         valor--;
     }
