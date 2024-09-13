@@ -18,7 +18,8 @@
             contar++;
 
         }
-    return 0;
+        printf("Quantidade de multiplo de 3 a 100: %d\n",qtd);
+    return 0; 
 
 
 }
